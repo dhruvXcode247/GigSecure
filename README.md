@@ -1,250 +1,263 @@
-🚀 GigSecure
+# 🚀 **GigSecure**
+
 AI-Powered Income Protection for Gig Workers
-📌 Overview
+### 📌 Overview:
 GigSecure is an AI-driven welfare and parametric insurance platform designed to protect gig workers (delivery partners, drivers, freelancers) from income loss caused by external disruptions like weather, pollution, or social restrictions.
 
-It combines:
+**It combines:**
 
-🤝 Community-based risk pooling
+    🤝 Community-based risk pooling
 
-🤖 AI-driven risk assessment
+    🤖 AI-driven risk assessment
 
-⚡ Parametric (automatic) insurance payouts
+    ⚡ Parametric (automatic) insurance payouts
 
-👉 Result: Instant, fair, and fraud-resistant compensation
+    👉 Result: Instant, fair, and fraud-resistant compensation
 
-🎯 Problem Statement
-Gig workers face:
+<br/>
 
-📉 Sudden income drops due to rain, pollution, strikes
+### 🎯 **Problem Gig workers face:**
 
-❌ No structured financial safety net
+    📉 Sudden income drops due to rain, pollution, strikes
 
-❌ Slow/manual claim processes
+    ❌ No structured financial safety net
 
-💡 Solution
-GigSecure provides:
+    ❌ Slow/manual claim processes
 
-✅ Weekly subscription-based protection
+<br/>
 
-🤖 AI-based disruption detection
+### 💡 **Solution GigSecure provides:**
 
-⚡ Instant automated payouts
+    ✅ Weekly subscription-based protection
 
-🛡️ Fraud-resistant claim system
+    🤖 AI-based disruption detection
 
-👤 User Personas & Scenarios
-👨‍🍳 Persona 1: Ravi (Delivery Partner)
-Works for food delivery platform
+    ⚡ Instant automated payouts
 
-Income depends on daily orders
+    🛡️ Fraud-resistant claim system
 
-📌 Scenario:
+<br/>
 
-Heavy rain occurs 🌧️
+### 👤 **User Personas & Scenarios:**
 
-Orders drop by 40%
 
-System detects disruption
+    👨‍🍳 Persona 1: Ravi (Delivery Partner)
+    Works for food delivery platform
 
-Claim auto-triggered
+    Income depends on daily orders
 
-Ravi receives instant payout
+    📌 Scenario:
 
-🚖 Persona 2: Neha (Cab Driver)
-Drives in urban areas
+    Heavy rain occurs 🌧️
 
-📌 Scenario:
+    Orders drop by 40%
 
-City curfew imposed 🚧
+    System detects disruption
 
-No rides for hours
+    Claim auto-triggered
 
-System detects inactivity + geo restriction
+    Ravi receives instant payout
+    
+<br/>
 
-Compensation automatically credited
+    🚖 Persona 2: Neha (Cab Driver)
+    Drives in urban areas
 
-💻 Persona 3: Arjun (Freelancer)
-Works remotely
+    📌 Scenario:
 
-📌 Scenario:
+    City curfew imposed 🚧
 
-Internet outage / regional disruption
+    No rides for hours
 
-Work halted
+    System detects inactivity + geo restriction
 
-Claim triggered via activity drop
+    Compensation automatically credited
 
-⚙️ Application Workflow
-User registers
+<br/>
 
-AI assigns Risk Group
+    💻 Persona 3: Arjun (Freelancer)
+    Works remotely
 
-Weekly premium collected
+    📌 Scenario:
 
-System monitors:
+    Internet outage / regional disruption
 
-Activity
+    Work halted
 
-Environment
+    Claim triggered via activity drop
 
-Parametric trigger activated
+<br/>
 
-Fraud check runs
+### ⚙️ **Application Workflow:**
+    User registers
 
-Instant payout / verification
+    AI assigns Risk Group
 
-💰 Weekly Premium Model
+    Weekly premium collected
+
+    System monitors:
+
+    Activity
+
+    Environment
+
+    Parametric trigger activated
+
+    Fraud check runs
+
+    Instant payout / verification
+
+### 💰 **Weekly Premium Model:**
 ₹50–₹150 per week
 
-Dynamically calculated using:
+    Dynamically calculated using:
 
-📍 Location risk
+    📍 Location risk
 
-🌦️ Environmental conditions
+    🌦️ Environmental conditions
 
-📊 Work activity patterns
+    📊 Work activity patterns
 
 👉 Ensures:
 
-Affordability
+    Affordability
 
-Fair contribution
+    Fair contribution
 
-Risk-based pricing
+    Risk-based pricing
 
-⚡ Parametric Triggers
+### ⚡ **Parametric Triggers:**
 Claims are automatically triggered when predefined thresholds are met:
 
-🌧️ Rainfall > threshold (e.g., heavy rain)
+    🌧️ Rainfall > threshold (e.g., heavy rain)
 
-🌫️ AQI > 300 (severe pollution)
+    🌫️ AQI > 300 (severe pollution)
 
-📉 Order drop > 30% vs normal
+    📉 Order drop > 30% vs normal
 
-🚧 Geo-fenced restrictions (curfew/strike)
+    🚧 Geo-fenced restrictions (curfew/strike)
 
-👉 Eliminates manual claim delays
+    👉 Eliminates manual claim delays
 
-🤖 AI/ML Integration
-1️⃣ Premium Calculation
-Risk scoring using:
+### 🤖 **AI/ML Integration:**
+    1️⃣ Premium Calculation
+    Risk scoring using:
 
-Location
+    Location
 
-Work patterns
+    Work patterns
 
-Environmental history
+    Environmental history
 
-2️⃣ Disruption Detection
-Combines:
+    2️⃣ Disruption Detection
+    Combines:
 
-Weather APIs
+    Weather APIs
 
-Activity drop
+    Activity drop
 
-Geo-events
+    Geo-events
 
-3️⃣ Fraud Detection
-Behavior analysis
+    3️⃣ Fraud Detection
+    Behavior analysis
 
-Pattern recognition
+    Pattern recognition
 
-Network anomaly detection
+    Network anomaly detection
 
-🛡️ Adversarial Defense & Anti-Spoofing Strategy
-🔍 1. Differentiation: Genuine vs Fake Claims
-✅ Genuine Users
-Consistent movement history
+### 🛡️ **Adversarial Defense & Anti-Spoofing Strategy:**
+    🔍 1. Differentiation: Genuine vs Fake Claims
+    ✅ Genuine Users
+    Consistent movement history
 
-Gradual activity drop
+    Gradual activity drop
 
-Matches real-world disruption
+    Matches real-world disruption
 
-❌ Fraudulent Users
-Fake/static GPS
+    ❌ Fraudulent Users
+    Fake/static GPS
 
-No work history
+    No work history
 
-Repeated suspicious claims
+    Repeated suspicious claims
 
-📊 2. Data Signals Used
-📍 Mobility: speed, movement pattern
+    📊 2. Data Signals Used
+    📍 Mobility: speed, movement pattern
 
-📱 Device: ID, session fingerprint
+    📱 Device: ID, session fingerprint
 
-📊 Activity: orders, app usage
+    📊 Activity: orders, app usage
 
-🌦️ External: weather, AQI
+    🌦️ External: weather, AQI
 
-🧑‍🤝‍🧑 Network: cluster fraud detection
+    🧑‍🤝‍🧑 Network: cluster fraud detection
 
-⚖️ 3. UX Balance (Fairness)
-Risk Level	Action
-Low	Instant payout
-Medium	Ask for proof
-High	Flag for review
-🌧️ Real-World Handling
-Network issues supported
+    ⚖️ 3. UX Balance (Fairness)
+    Risk Level	Action
+    Low	Instant payout
+    Medium	Ask for proof
+    High	Flag for review
+    🌧️ Real-World Handling
+    Network issues supported
 
-Grace buffer for uploads
+    Grace buffer for uploads
 
-Historical data used
+    Historical data used
 
-📱 Platform Choice
-✅ Mobile-First Approach
-Gig workers use smartphones primarily
+### 📱 **Platform Choice:**
+    ✅ Mobile-First Approach
+    Gig workers use smartphones primarily
 
-Real-time tracking (GPS, activity)
+    Real-time tracking (GPS, activity)
 
-Faster claims & notifications
+    Faster claims & notifications
 
-👉 Web dashboard for admin & analytics
+    Web dashboard for admin & analytics
 
-🏗️ Tech Stack
-Frontend
-React / Flutter
+### 🏗️ **Tech Stack:**
+    Frontend
+    React / Flutter
 
-Backend
-Node.js / Firebase
+    Backend
+    Node.js / Firebase
 
-AI Layer
-Rule-based + ML risk scoring
+    AI Layer
+    Rule-based + ML risk scoring
 
-APIs
-Weather API (OpenWeather)
+    APIs
+    Weather API (OpenWeather)
 
-Payment Gateway (UPI / Razorpay)
+    Payment Gateway (UPI / Razorpay)
 
-🛠️ Development Plan
-Phase 1 (MVP)
-User onboarding
+### 🛠️ **Development Plan:**
+    Phase 1 (MVP)
+    User onboarding
 
-Risk grouping
+    Risk grouping
 
-Basic claim system
+    Basic claim system
 
-Phase 2
-AI risk scoring
+    Phase 2
+    AI risk scoring
 
-Weather-based triggers
+    Weather-based triggers
 
-Phase 3
-Fraud detection system
+    Phase 3
+    Fraud detection system
 
-Automated payouts
+    Automated payouts
 
-Phase 4
-Platform integrations
+    Phase 4
+    Platform integrations
 
-Scaling to large users
+    Scaling to large users
 
-📊 Impact
-👥 Supports millions of gig workers
+  ### 📊 **Impact:**
+    👥 Supports millions of gig workers
 
-⚡ Instant compensation system
+    ⚡ Instant compensation system
 
-🛡️ Fraud-resistant ecosystem
+    🛡️ Fraud-resistant ecosystem
 
-💰 Financial stability for informal sector
+    💰 Financial stability for informal sector
 
