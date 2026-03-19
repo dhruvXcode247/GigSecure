@@ -193,11 +193,11 @@ Claims are automatically triggered when predefined thresholds are met:
     🧑‍🤝‍🧑 Network: cluster fraud detection
 
     ⚖️ 3. UX Balance (Fairness)
-    Risk Level	Action
+    Risk Level Action
     Low	Instant payout
-    Medium	Ask for proof
-    High	Flag for review
-    🌧️ Real-World Handling
+    Medium Ask for proof
+    High Flag for review
+    Real-World Handling
     Network issues supported
 
     Grace buffer for uploads
